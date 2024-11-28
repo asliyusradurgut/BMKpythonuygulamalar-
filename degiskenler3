@@ -1,0 +1,2 @@
+mesaj=input("İsminiz: ")
+print("Hoşgeldiniz, Giriş Başarılı "+mesaj)

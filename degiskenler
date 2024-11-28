@@ -1,0 +1,7 @@
+#değişkenler sayı ile başlamaz sayı ile başlamaz türkçe karakter değişken iki kelimeden oluşuyorsa ikinci kelime büyük yazılır
+# urunFiyat urun_Fiyat urun_fiyat doğrudur
+#  1urun urun-fiyat urun@1 yanlıştır.
+#ctrlkc yazarak aktifliğini yok edebilirsin ctrlz ye basarak aktiflik sağlaybilirsim.
+# sayi1=10
+# sayi2=20
+# print(sayi1+sayi2)
